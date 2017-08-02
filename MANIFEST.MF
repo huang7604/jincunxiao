@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: System.windows.ZhuWindow
+Class-Path: lib/mysql-connector-java-5.1.18-bin.jar
